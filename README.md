@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bacho
-- 👀 I’m interested in C#/c++, python & js 
+- 👀 I’m interested in Web development
 - 🌱 I’m currently learning CS
 
 
